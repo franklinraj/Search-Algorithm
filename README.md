@@ -5,10 +5,10 @@ To write a program to perform linear search and binary search using python progr
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-1. start the program with package of linearsearch()
-2. give conditions as follows 
-3. use array function to excuete the program
-4. now print the output
+1. start the program with package of linearsearch().
+2. give conditions as follows. 
+3. use array function to excuete the program.
+4. now print the output.
 ## Linear Search:
 1.	Start from the leftmost element of array[] and compare k with each element of array[] one by one.
 2.	If k matches with an element in array[] , return the index.
